@@ -3,24 +3,52 @@
 
 ## Summarize
 
-1. Laws carry the governing authority, while ethics do not.
-    - Civil law
-    - Criminal law
-    - Private law
-    - Public law
+1. Laws, ethics and policies
+    1. Laws: mandate or prohibit, carry the governing authority, ignorance is unacceptable.
+        - Civil law: governed a state and by the nation, deal with the relationships/conflicts between organizations/people.
+        - Criminal law
+        - Private law
+        - Public law: Criminal, administrative, and constitutional law.
+    1. Ethics: no governing authority
+    1. Policies: organizational laws, organizational behavior directions, ignorance is acceptable.
 
-1. Policies: organizational laws.
+1. Aspect
+    1. Security
+        - Movie: WarGames
+        - CCCA: Comprehensive Crime Control Act, 1984
+        - CFAA: Computer Fraud and Abuse Act, 1986 --> Cornerstone
+            - First case: Morris worm, 1988.
+        - Patriot Act, 911
+            - Provides law enforcement agencies with broader latitude to combat terrorism.
 
-1. Security related:
-    - Movie: WarGames
-    - CCCA: Comprehensive Crime Control Act, 1984
-    - CFAA: Computer Fraud and Abuse Act, 1986 --> Cornerstone
-        - First case: Morris worm, 1988.
-    - Patriot Act, 911
+    1. Privacy
+        - HIPAA, 1996
 
-1. Privacy related:
+    1. Identity theft: unauthorized
+        - PII: personally identifiable information, name add, ssn, etc
 
-1. Copyright:
+    1. Copyright:
+
+    1. Financial:
+        - SOX: Sarbanes-Oxley Act, 2002, reliability and accuracy
+        - Freedom of Information Act, 1966, federal
+        - CA consumer privacy act
+
+1. Deterring:
+    - Causes: ignorance, accident, intent
+    - Deter: Penalty, apprehension, application
+
+1. Agency
+    1. NSA: national security agency
+        - leader in cryptology, discover and protect
+        - balance of information privacy and national security
+    1. DHS: dprt of Homeland Security
+        - protect citizens
+        - US-CERT: report phishing malware
+    1. U.S. Secret Service
+        - safeguard nation's financial infrastructure and payments system, preserve the integrity of the economy
+    1. FBI
+        - traditional/cyber crimes: intrusion, id theft, fraud
 
 ## Quiz
 
@@ -29,14 +57,16 @@
 
 > What is the difference between law and ethics?
 
-Laws carry the sanctions of a governing authority and ethics do not. Ethics in turn are based on cultural mores: the fixed moral attitudes or customs of a particular group.
+Laws carry the authority of a governing body and ethics do not. Ethics, are based on cultural mores.
+
 
 ### Quiz 2
 
 > What is civil law, and what does it accomplish?
 
 1. Civil law is governed by the state and by the nation.
-1. Settles conflicts between organizations and people that have a relationship of some type
+1. It deal with the relationships/conflicts between organizations/people.
+
 
 ### Quiz 3
 
@@ -44,12 +74,14 @@ Laws carry the sanctions of a governing authority and ethics do not. Ethics in t
 
 Criminal, administrative, and constitutional law.
 
+
 ### Quiz 4
 
 > Which law amended the Computer Fraud and Abuse Act of 1986, and what did it change?
 
-1. The National Information Infrastructure Protection Act of 1996 amended the Computer Fraud and Abuse Act of 1986. 
-1. It increased the penalties for selected crimes.
+1. The National Information Infrastructure Protection Act of 1996. 
+1. It modified several sections of the CFAA and increased the penalties for selected crimes.
+
 
 ### Quiz 5
 
@@ -57,9 +89,13 @@ Criminal, administrative, and constitutional law.
 
 Security and Freedom through Encryption Act of 1999
 
+
 ### Quiz 6
 
 > What is privacy in an information security context?
+
+Privacy is not absolute freedom from observation, but rather it is a more precise "state of being free from unsanctioned intrusion."
+
 
 ### Quiz 7
 
@@ -72,25 +108,39 @@ Security and Freedom through Encryption Act of 1999
 
 > If you work for a financial services organization such as a bank or credit union, which 1999 law affects your use of customer data? What other effects does it have?
 
+1. the Financial Services Modernization Act or Gramm-Leach-Bliley Act of 1999. 
+1. 
+
 ### Quiz 9
 
 > What is the primary purpose of the USA PATRIOT Act and how has it been revised since its original passage?
+
+1. Combat terrorism-related activities.
+1. 
 
 ### Quiz 10
 
 > What is PCI DSS and why is it important for information security?
 
+
+
 ### Quiz 11
 
 > What is intellectual property (IP)? Is it afforded the same protection in every country of the world? What laws currently protect IP in the United States and Europe?
+
+
 
 ### Quiz 12
 
 > How does the Sarbanes-Oxley Act of 2002 affect information security managers?
 
+
+
 ### Quiz 13
 
 > What is due care? Why should an organization make sure to exercise due care in its usual course of operations?
+
+
 
 ### Quiz 14
 
