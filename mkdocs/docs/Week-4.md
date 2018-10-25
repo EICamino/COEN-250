@@ -3,6 +3,40 @@
 
 ## Summarize
 
+Cryptography: makeing nad using codes to secure information.
+Cryptoanalysis: decryption without knowing the keys.
+Cryptology: Cryptography + Cryptoanalysis
+
+1. Terms:
+    - Algorithm: steps to convert unencrypted message to encrypted sequence, also refer to programs doing this.
+    - Cipher/Cryptosystem: encryption method, encompassing algorithms, keys and procedures to perform encryption and decryption.
+    - Ciphertext/Cryptogram: encoded message after encryption
+    - Plaintext/cleartext: unencrypted/depcrypted message.
+    - Decipher: decrypt, decode or convert to ciphertext to planintext
+    - Encipher: encrypt, encode or convert to planintext to ciphertext
+    - Key/cryptovariable: info conjunct with an algorithm to encrypt/decrypt
+    - Keyspace: entire range of values that can be used to construct key.
+
+1. Category:
+    - bit
+        - XOR
+    - block
+        - substitution
+            - Mono-alphabetic
+            - Poly-alphabetic
+            - Vigenere: symmetric
+        - transposition
+            - rearranging binaries within a block by given
+            - Vernam
+            - Book-based cipher: dict, including all words
+        - XOR
+            - simple implementation simple break
+        - combination
+
+1. Hash
+    - Convert variable-length message to fixed length value.
+    - One way
+    - Store passwords
 
 
 ## Quiz
@@ -59,7 +93,7 @@ Encrypting, decrypting, and hashing
 
 - | Symmetric | Asymmetric
 --- | --- | ---
-Also known as             | Public key encryption           | Private key encryption
+Also known as             | private key encryption          | public key encryption
 Types of keys             | 1, private                      | 2, public and private
 Encryption and decryption | Same key                        | Different key
 Problem                   | Send the key to the receiver    | Slower

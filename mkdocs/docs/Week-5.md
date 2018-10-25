@@ -3,8 +3,10 @@
 
 ## Summarize
 
-1. Laws, ethics and policies
-    1. Laws: mandate or prohibit, carry the governing authority, ignorance is unacceptable.
+1. Laws, ethics and policy
+    1. Laws/ethics: laws are mandate or prohibit, carry the governing authority, ethics are now
+    1. Laws/policy: laws are enforceable, ignoring unacceptable, policies need to meet certain conditions, ignoring acceptable.
+    1. Type of law
         - Civil law: governed a state and by the nation, deal with the relationships/conflicts between organizations/people.
         - Criminal law
         - Private law
@@ -12,37 +14,38 @@
     1. Ethics: no governing authority
     1. Policies: organizational laws, organizational behavior directions, ignorance is acceptable.
 
-1. Aspect
-    1. Security
-        - Movie: WarGames
-        - CCCA: Comprehensive Crime Control Act, 1984
-        - CFAA: Computer Fraud and Abuse Act, 1986 --> Cornerstone
-            - First case: Morris worm, 1988.
-        - Patriot Act, 911
-            - Provides law enforcement agencies with broader latitude to combat terrorism.
+1. Computer crime law
+    - CFAA: Computer Fraud and Abuse Act, 1986 --> Cornerstone
+        - First case: Morris worm, 1988.
+    - Patriot Act, 911
+        - Provides law enforcement agencies with broader latitude to combat terrorism.
+    <!-- - Movie: WarGames
+    - CCCA: Comprehensive Crime Control Act, 1984 -->
 
-    1. Privacy
-        - HIPAA, 1996
+    - Privacy
+        - HIPAA: health insurance portability and accountability Act, 1996
 
-    1. Identity theft: unauthorized
+    - Identity theft: unauthorized
         - PII: personally identifiable information, name add, ssn, etc
+        - 
 
-    1. Copyright:
+    - Copyright:
 
-    1. Financial:
+    - Financial:
         - SOX: Sarbanes-Oxley Act, 2002, reliability and accuracy
         - Freedom of Information Act, 1966, federal
         - CA consumer privacy act
 
-1. Deterring:
+1. Ethical differences
+<!-- 1. Deterring:
     - Causes: ignorance, accident, intent
-    - Deter: Penalty, apprehension, application
-
+    - Deter: Penalty, apprehension, application -->
+    
 1. Agency
     1. NSA: national security agency
         - leader in cryptology, discover and protect
         - balance of information privacy and national security
-    1. DHS: dprt of Homeland Security
+    1. DHS: department of Homeland Security
         - protect citizens
         - US-CERT: report phishing malware
     1. U.S. Secret Service
