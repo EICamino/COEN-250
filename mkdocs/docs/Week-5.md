@@ -40,7 +40,7 @@
 <!-- 1. Deterring:
     - Causes: ignorance, accident, intent
     - Deter: Penalty, apprehension, application -->
-    
+
 1. Agency
     1. NSA: national security agency
         - leader in cryptology, discover and protect
@@ -156,12 +156,19 @@ Privacy is not absolute freedom from observation, but rather it is a more precis
 ### Quiz 16
 
 > What are the three general categories of unethical and illegal behavior?
+    
+    Ignorance, accident, intent
 
 ### Quiz 17
 
 > What is the best method for preventing an illegal or unethical activity?
 
-Fear of Penalty, probability of being apprehended, probability of penalty being applied
+1. Education for ignorance
+2. Careful planning for accident
+3. Policies and laws for intent
+    - Fear of Penalty
+    - Fear of being apprehended
+    - Fear of penalty being applied
 
 ### Quiz 18
 
