@@ -3,8 +3,10 @@
 
 ## Summarize
 
-Cryptography: makeing nad using codes to secure information.
+Cryptography: making and using codes to secure information.
+
 Cryptoanalysis: decryption without knowing the keys.
+
 Cryptology: Cryptography + Cryptoanalysis
 
 1. Terms:
