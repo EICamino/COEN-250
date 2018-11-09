@@ -1,4 +1,4 @@
-# Week 7 - Panning for Security
+# Week 8 - Risk Management
 
 
 ## Summarize
