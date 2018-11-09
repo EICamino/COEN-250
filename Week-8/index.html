@@ -13,7 +13,7 @@
         <meta name="description" content="SCU COEN 250 notes and assignments, Principles of Information Security.">
       
       
-        <link rel="canonical" href="https://coen250.amblizer.xyz/Week-4/">
+        <link rel="canonical" href="https://coen250.amblizer.xyz/Week-8/">
       
       
         <meta name="author" content="Amblizer">
@@ -42,7 +42,7 @@
     
     
       
-        <title>Week 4 - Cryptography - SCU COEN 250 Information Security Management</title>
+        <title>Week 7 - Panning for Security - SCU COEN 250 Information Security Management</title>
       
     
     
@@ -104,7 +104,7 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
     
-      <a href="../#week-4-cryptography" tabindex="1" class="md-skip">
+      <a href="../#week-7-panning-for-security" tabindex="1" class="md-skip">
         Skip to content
       </a>
     
@@ -130,7 +130,7 @@
                 SCU COEN 250 Information Security Management
               </span>
               <span class="md-header-nav__topic">
-                Week 4 - Cryptography
+                Week 7 - Panning for Security
               </span>
             
           
@@ -257,6 +257,42 @@
       
       
 
+
+  <li class="md-nav__item">
+    <a href="../Week-4/" title="Week 4 - Cryptography" class="md-nav__link">
+      Week 4 - Cryptography
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Week-5/" title="Week 5 - Legal ethical and professional issues" class="md-nav__link">
+      Week 5 - Legal ethical and professional issues
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Week-7/" title="Week 7 - Panning for Security" class="md-nav__link">
+      Week 7 - Panning for Security
+    </a>
+  </li>
+
+    
+      
+      
+      
+
   
 
 
@@ -268,11 +304,11 @@
     
     
       <label class="md-nav__link md-nav__link--active" for="__toc">
-        Week 4 - Cryptography
+        Week 7 - Panning for Security
       </label>
     
-    <a href="./" title="Week 4 - Cryptography" class="md-nav__link md-nav__link--active">
-      Week 4 - Cryptography
+    <a href="./" title="Week 7 - Panning for Security" class="md-nav__link md-nav__link--active">
+      Week 7 - Panning for Security
     </a>
     
       
@@ -459,42 +495,6 @@
   
 </nav>
     
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../Week-5/" title="Week 5 - Legal ethical and professional issues" class="md-nav__link">
-      Week 5 - Legal ethical and professional issues
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../Week-7/" title="Week 7 - Panning for Security" class="md-nav__link">
-      Week 7 - Panning for Security
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../Week-8/" title="Week 7 - Panning for Security" class="md-nav__link">
-      Week 7 - Panning for Security
-    </a>
   </li>
 
     
@@ -700,281 +700,52 @@
             <article class="md-content__inner md-typeset">
               
                 
-                  <a href="https://github.com/EICamino/COEN250/edit/master/docs/Week-4.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
+                  <a href="https://github.com/EICamino/COEN250/edit/master/docs/Week-8.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
                 
                 
-                <h1 id="week-4-cryptography">Week 4 - Cryptography</h1>
+                <h1 id="week-7-panning-for-security">Week 7 - Panning for Security</h1>
 <h2 id="summarize">Summarize</h2>
-<p>Cryptography: making and using codes to secure information.</p>
-<p>Cryptoanalysis: decryption without knowing the keys.</p>
-<p>Cryptology: Cryptography + Cryptoanalysis</p>
-<ol>
-<li>
-<p>Terms:</p>
-<ul>
-<li>Algorithm: steps to convert unencrypted message to encrypted sequence, also refer to programs doing this.</li>
-<li>Cipher/Cryptosystem: encryption method, encompassing algorithms, keys and procedures to perform encryption and decryption.</li>
-<li>Ciphertext/Cryptogram: encoded message after encryption</li>
-<li>Plaintext/cleartext: unencrypted/depcrypted message.</li>
-<li>Decipher: decrypt, decode or convert to ciphertext to planintext</li>
-<li>Encipher: encrypt, encode or convert to planintext to ciphertext</li>
-<li>Key/cryptovariable: info conjunct with an algorithm to encrypt/decrypt</li>
-<li>Keyspace: entire range of values that can be used to construct key.</li>
-</ul>
-</li>
-<li>
-<p>Category:</p>
-<ul>
-<li>bit<ul>
-<li>XOR</li>
-</ul>
-</li>
-<li>block<ul>
-<li>substitution<ul>
-<li>Mono-alphabetic</li>
-<li>Poly-alphabetic</li>
-<li>Vigenere: symmetric</li>
-</ul>
-</li>
-<li>transposition<ul>
-<li>rearranging binaries within a block by given</li>
-<li>Vernam</li>
-<li>Book-based cipher: dict, including all words</li>
-</ul>
-</li>
-<li>XOR<ul>
-<li>simple implementation simple break</li>
-</ul>
-</li>
-<li>combination</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>
-<p>Hash</p>
-<ul>
-<li>Convert variable-length message to fixed length value.</li>
-<li>One way</li>
-<li>Store passwords</li>
-</ul>
-</li>
-</ol>
 <h2 id="quiz">Quiz</h2>
 <h3 id="quiz-1">Quiz 1</h3>
-<blockquote>
-<p>What is cryptography and cryptanalysis?</p>
-</blockquote>
-<p>Encryption, decryption without knowing the keys.</p>
+<blockquote></blockquote>
 <h3 id="quiz-2">Quiz 2</h3>
-<blockquote>
-<p>What was the earliest reason for the use of cryptography?</p>
-</blockquote>
-<p>Concealing military and political secrets while they were transported from place to place.</p>
+<blockquote></blockquote>
 <h3 id="quiz-3">Quiz 3</h3>
-<blockquote>
-<p>What is a cryptographic key, and what is it used for? What is a more formal name for a cryptographic key?</p>
-</blockquote>
-<ol>
-<li>Cryptographic key is the information used in conjunction with an algorithm to create the ciphertext from the plaintext or derive the1. aintext from the ciphertext. The key can be a series of bits used by a computer program, or it can be a passphrase used by people that1.  then converted into a series of bits for use in the computer program.</li>
-<li>Also known as a crypto variable.</li>
-</ol>
+<blockquote></blockquote>
 <h3 id="quiz-4">Quiz 4</h3>
-<blockquote>
-<p>What are the three basic operations in cryptography?</p>
-</blockquote>
-<p>Encrypting, decrypting, and hashing</p>
+<blockquote></blockquote>
 <h3 id="quiz-5">Quiz 5</h3>
-<blockquote>
-<p>What is a hash function, and what can it be used for?</p>
-</blockquote>
-<ol>
-<li>Mathematical algorithms that generate a message summary or digest to confirm the identity and integrity.</li>
-<li>Convert variable-length messages into a single fixed-length value, and different messages have different digests.</li>
-</ol>
+<blockquote></blockquote>
 <h3 id="quiz-6">Quiz 6</h3>
-<blockquote>
-<p>What does it mean to be “out of band”? Why is it important to exchange keys out of band in symmetric encryption?</p>
-</blockquote>
-<ol>
-<li>Avoid interception</li>
-<li>Use a band other than the one carrying the ciphertext.</li>
-</ol>
+<blockquote></blockquote>
 <h3 id="quiz-7">Quiz 7</h3>
-<blockquote>
-<p>What is the fundamental difference between symmetric and asymmetric encryption?</p>
-</blockquote>
-<table>
-<thead>
-<tr>
-<th>-</th>
-<th>Symmetric</th>
-<th>Asymmetric</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Also known as</td>
-<td>private key encryption</td>
-<td>public key encryption</td>
-</tr>
-<tr>
-<td>Types of keys</td>
-<td>1, private</td>
-<td>2, public and private</td>
-</tr>
-<tr>
-<td>Encryption and decryption</td>
-<td>Same key</td>
-<td>Different key</td>
-</tr>
-<tr>
-<td>Problem</td>
-<td>Send the key to the receiver</td>
-<td>Slower</td>
-</tr>
-</tbody>
-</table>
+<blockquote></blockquote>
 <h3 id="quiz-8">Quiz 8</h3>
-<blockquote>
-<p>How does public key infrastructure add value to an organization seeking to use cryptography to protect information assets?</p>
-</blockquote>
-<p>PKI makes the use of cryptographic systems more convenient and cost-effective.</p>
+<blockquote></blockquote>
 <h3 id="quiz-9">Quiz 9</h3>
-<blockquote>
-<p>What are the components of PKI?</p>
-</blockquote>
-<p>RA (Regulation Authority), CA (Certificate Authority), CD (Certificate directories), Protocols, Policies and Procedures. </p>
+<blockquote></blockquote>
 <h3 id="quiz-10">Quiz 10</h3>
-<blockquote>
-<p>What is the difference between a digital signature and a digital certificate?</p>
-</blockquote>
-<ol>
-<li>Digital signatures are encrypted messages that can be verified with the help of hashing</li>
-<li>Digital certificates are files that contain public key that are used to identify the ownership of computer applications. </li>
-</ol>
+<blockquote></blockquote>
 <h3 id="quiz-11">Quiz 11</h3>
-<blockquote>
-<p>What critical issue in symmetric and asymmetric encryption is resolved by using a hybrid method like Diffie-Hellman?</p>
-</blockquote>
-<p>3<sup>rd</sup> party transfer compromising.</p>
+<blockquote></blockquote>
 <h3 id="quiz-12">Quiz 12</h3>
-<blockquote>
-<p>What is steganography, and what can it be used for?</p>
-</blockquote>
-<ol>
-<li>Hiding messages by secret writing.</li>
-<li>Protect confidential info.</li>
-</ol>
+<blockquote></blockquote>
 <h3 id="quiz-13">Quiz 13</h3>
-<blockquote>
-<p>Which security protocols are predominantly used in Web-based e-commerce?</p>
-</blockquote>
-<table>
-<thead>
-<tr>
-<th>Abbr.</th>
-<th>Full name</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>SSL</td>
-<td>secure sockets layer</td>
-</tr>
-<tr>
-<td>S-HTTP</td>
-<td>secure hypertext transfer protocol</td>
-</tr>
-<tr>
-<td>SET</td>
-<td>secure electronic transactions</td>
-</tr>
-</tbody>
-</table>
+<blockquote></blockquote>
 <h3 id="quiz-14">Quiz 14</h3>
-<blockquote>
-<p>Which security protocols are used to protect e-mail?</p>
-</blockquote>
-<table>
-<thead>
-<tr>
-<th>Abbr.</th>
-<th>Full name</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>S/MIME</td>
-<td>secure multipurpose internet mail extensions</td>
-</tr>
-<tr>
-<td>PEM</td>
-<td>privacy enhanced mail</td>
-</tr>
-<tr>
-<td>PGP</td>
-<td>pretty good privacy</td>
-</tr>
-</tbody>
-</table>
+<blockquote></blockquote>
 <h3 id="quiz-15">Quiz 15</h3>
-<blockquote>
-<p>IPSec can be implemented using two modes of operation. What are they?</p>
-</blockquote>
-<p>Transport and tunnel</p>
+<blockquote></blockquote>
 <h3 id="quiz-16">Quiz 16</h3>
-<blockquote>
-<p>Which kind of attack on cryptosystems involves using a collection of pre-identified terms? Which kind of attack involves sequential guessing of all possible key combinations?</p>
-</blockquote>
-<ol>
-<li>Dictionary attack, rainbow cracking</li>
-<li>Brute force attack</li>
-</ol>
+<blockquote></blockquote>
 <h3 id="quiz-17">Quiz 17</h3>
-<blockquote>
-<p>If you were setting up an encryption-based network, what key size would you choose and why?</p>
-</blockquote>
-<ol>
-<li>Choose the largest key size consistent with the tools being used and the overhead performance burden it would impose on the environment.</li>
-<li>The current "gold standard" is to ensure that all computing devices are capable of AES 256-bit encryption.</li>
-</ol>
+<blockquote></blockquote>
 <h3 id="quiz-18">Quiz 18</h3>
-<blockquote>
-<p>What is the typical key size of a strong encryption system used on the Web today?</p>
-</blockquote>
-<p>At least 256 bits</p>
+<blockquote></blockquote>
 <h3 id="quiz-19">Quiz 19</h3>
-<blockquote>
-<p>What encryption standard is currently recommended by NIST?</p>
-</blockquote>
-<p>AES (advanced encryption standard)</p>
+<blockquote></blockquote>
 <h3 id="quiz-20">Quiz 20</h3>
-<blockquote>
-<p>What are the most popular encryption systems used over the Web?</p>
-</blockquote>
-<table>
-<thead>
-<tr>
-<th>Abbr.</th>
-<th>Full name</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>symmetric</td>
-<td>AES</td>
-</tr>
-<tr>
-<td>asymmetric</td>
-<td>RSA</td>
-</tr>
-<tr>
-<td>hybrid</td>
-<td>PGP</td>
-</tr>
-</tbody>
-</table>
+<blockquote></blockquote>
                 
                   
                 
@@ -987,9 +758,9 @@
   <div id="disqus_thread"></div>
   <script>
     var disqus_config = function () {
-      this.page.url = "https://coen250.amblizer.xyz/Week-4/";
+      this.page.url = "https://coen250.amblizer.xyz/Week-8/";
       this.page.identifier =
-        "/Week-4/";
+        "/Week-8/";
     };
     (function() {
       var d = document, s = d.createElement("script");
@@ -1011,7 +782,7 @@
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid">
         
-          <a href=".." title="Syllabus" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../Week-7/" title="Week 7 - Panning for Security" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-flex__cell md-flex__cell--shrink">
               <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
             </div>
@@ -1020,25 +791,11 @@
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
-                Syllabus
+                Week 7 - Panning for Security
               </span>
             </div>
           </a>
         
-        
-          <a href="../Week-5/" title="Week 5 - Legal ethical and professional issues" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
-            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
-              <span class="md-flex__ellipsis">
-                <span class="md-footer-nav__direction">
-                  Next
-                </span>
-                Week 5 - Legal ethical and professional issues
-              </span>
-            </div>
-            <div class="md-flex__cell md-flex__cell--shrink">
-              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
-            </div>
-          </a>
         
       </nav>
     </div>
