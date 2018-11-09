@@ -18,7 +18,7 @@ should plan for it?
 
 > Where can a security administrator find information on established security frameworks?
 
-Test Chang
+
 
 ### Quiz 3
 
