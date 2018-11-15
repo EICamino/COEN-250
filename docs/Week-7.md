@@ -8,9 +8,7 @@
 
 ### Quiz 1
 
-> How can a security framework assist in the design and implementation of a security
-infrastructure? What is information security governance? Who in the organization
-should plan for it?
+> How can a security framework assist in the design and implementation of a security infrastructure? What is information security governance? Who in the organization should plan for it?
 
 
 
