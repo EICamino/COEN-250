@@ -9,9 +9,11 @@
 
 ### Quiz 1
 
-> What is risk management? Why is the identification of risks and vulnerabilities to assets so important in risk management?
+> ***What is risk management? Why is the identification of risks and vulnerabilities to assets so important in risk management?***
 
-Risk identification (vulnerability), assessment (exposure), and control (reduce to acceptable)
+1. Risk identification (vulnerability), assessment (exposure), and control (reduce to acceptable)
+
+1. Helps prioritize.
 
 
 ### Quiz 2
@@ -29,11 +31,11 @@ interest usually takes the lead in information security risk management?
 - Each community of interest
 - Information security community
 
-### Quiz 4
+### ~~Quiz 4~~
 
-> In risk management strategies, why must periodic review be part of the process?
+> ~~In risk management strategies, why must periodic review be part of the process?~~
 
-Ensure effective, always neglected.
+Ensure still effective, always neglected.
 
 ### Quiz 5
 
@@ -57,16 +59,16 @@ Often the focal point of attacks, considered special rather than combined with o
 - With dynamic addressing, the MAC Address is more useful. 
 
 
-### Quiz 8
+### ~~Quiz 8~~
 
-> When devising a classification scheme for systems components, is it more important that the asset identification list be comprehensive or mutually exclusive?
+> ~~When devising a classification scheme for systems components, is it more important that the asset identification list be comprehensive or mutually exclusive?~~
 
 Both are important as depending upon the organization’s list priority and classification.
 
 
-### Quiz 9
+### ~~Quiz 9~~
 
-> What’s the difference between an asset’s ability to generate revenue and its ability to generate profit?
+> ~~What’s the difference between an asset’s ability to generate revenue and its ability to generate profit?~~
 
 Revenue is the recognition of income from an activity supported by the system. Profit is the amount of revenue that exceeds operating costs. Some systems may cost more to operate than they contribute to revenue.
 
@@ -79,9 +81,9 @@ Revenue is the recognition of income from an activity supported by the system. P
 - Analyzing all components of an information systems and evaluating the risk to each component identify the vulnerabilities.
 
 
-### Quiz 11
+### ~~Quiz 11~~
 
-> What is competitive disadvantage? Why has it emerged as a factor?
+> ~~What is competitive disadvantage? Why has it emerged as a factor?~~
 
 - A competitive disadvantage occurs when a company falls behind the competition in its ability to maintain the highly responsive services required in today's marketplaces. 
 
@@ -90,7 +92,7 @@ Revenue is the recognition of income from an activity supported by the system. P
 
 ### Quiz 12
 
-> What five strategies for controlling risk are described in this chapter?
+> ***What five strategies for controlling risk are described in this chapter?***
 
 1. Defend- The defend control strategy attempts to prevent the exploitation of the vulnerability.
 1. Transfer- The transfer control strategy attempts to shift risk to other assets, other processes, or other organizations.
@@ -100,62 +102,67 @@ Revenue is the recognition of income from an activity supported by the system. P
 
 ### Quiz 13
 
-> Describe the defense strategy for controlling risk. List and describe the three common methods.
+> ***Describe the defense strategy for controlling risk. List and describe the three common methods.***
 
-The defend control strategy attempts to prevent the exploitation of the vulnerability. This Is the preferred approach, and is accomplished by means of countering threats, removing vulnerabilities from assets, limiting access to assets, and adding protective safeguards. There are three common methods used to defend:
+to prevent the exploitation of the vulnerability.
+
 - Application of policy
 - Education and training
 - Application of technology
 
 ### Quiz 14
 
-> Describe the transference strategy for controlling risk. Describe how outsourcing can be used for this purpose.
+> ***Describe the transference strategy for controlling risk. Describe how outsourcing can be used for this purpose.***
 
-The transfer strategy is the control approach that attempts to shift risk to other assets, other processes, or other organizations. This may be accomplished by rethinking how services are offered, revising deployment models, outsourcing to other organizations, purchasing insurance, or implementing service contracts with providers. 
+shift risk to other assets, other processes, or other organizations. by rethinking how services are offered, revising deployment models, outsourcing, insurance, or implementing service contracts with providers. 
 
-Outsourcing allows an organization to transfer the risk associated with the management of complex systems to another organization that has experience in dealing with those risks. One of the benefits of outsourcing is that the service provider is responsible for disaster recovery when recovery efforts are needed.
+Outsourcing transfer to another organization that has experience, and service provider is responsible for disaster recovery.
 
 
 ### Quiz 15
 
-> Describe the mitigation strategy for controlling risk. What three planning approaches are discussed in the text as opportunities to mitigate risk?
+> ***Describe the mitigation strategy for controlling risk. What three planning approaches are discussed in the text as opportunities to mitigate risk?***
 
-The mitigate strategy is the control approach that attempts to reduce the impact caused bythe exploitation of vulnerability through planning and preparation. Mitigation begins withthe early detection that an attack is in progress and the ability of the organization to respondquickly, efficiently, and effectively.This approach requires the creation of three types of plans: the incident response plan, thedisaster recovery plan, and the business continuity plan. Each of these plans depends on theability to detect and respond to an attack as quickly as possible and relies on the existenceand quality of the other plans.
-- Incident Response Plan (IRP):Defines the actions an organization can and perhapsshould take while an incident is in progress. The IR plan focuses on intelligence gather-ing, information analysis, coordinated decision making, and urgent, concrete actions.
-- Disaster recovery plan (DRP):Includes the entire spectrum of activities used to preparefor and recover from an incident. The DR plan focuses more on preparations completedbefore and actions taken after the incident.
-- Business Continuity Plan (BCP):Encompasses the continuation of business activitiesif a catastrophic event occurs.The BC plan includes planning the steps necessary toensure the continuation of the organization when the scope or scale of a disaster exceedsthe ability of the DR plan to restore operations.
+Reduce the impact.
 
-### Quiz 16
+- Incident Response Plan (IRP)
+- Disaster recovery plan (DRP)
+- Business Continuity Plan (BCP)
 
-> How is an incident response plan different from a disaster recovery plan?
+### ~~Quiz 16~~
 
-The DR plan focuses more on preparations completed before and actions taken for disasters —often escalated incidents; to reestablish operations at the primary site. The IR plan focuses onIncident Response: intelligence gathering, information analysis, coordinated decision making,and urgent, concrete actions taken while an incident is occurring.
+> ~~How is an incident response plan different from a disaster recovery plan?~~
+
+The DR plan focuses more on preparations completed before and actions taken for disasters —often escalated incidents; to reestablish operations at the primary site. 
+
+The IR plan focuses onIncident Response: intelligence gathering, information analysis, coordinated decision making,and urgent, concrete actions taken while an incident is occurring.
 
 ### Quiz 17
 
-> What is risk appetite? Explain why it varies among organizations.
+> ***What is risk appetite? Explain why it varies among organizations.***
 
 - Quantity and nature of risk that organizations are willing to accept as _trade-offs_ of security with accessibility.
-- Risk appetite varies from organization to organization because different organizations main-tain different balances between the expense of controlling vulnerabilities and the losses possi-ble if these vulnerabilities were exploited. The key for each organization is to find the balancein its decision-making processes and in its feasibility analyses, therefore assuring that an or-ganization’s risk appetite is based on experience and facts and not on ignorance or wishfulthinking
+
+- Differences in expense of controlling and the losses. The key is to find the balance.
 
 
 ### Quiz 18
 
-> What is a cost-benefit analysis?
+> ***What is a cost-benefit analysis?***
 
-Cost benefit analysis is the formal decision-making process used by an organization to evaluate whether or not the benefit gained from a given project is worth the expense its undertaking incurs.
+A decision-making process to evaluate whether benefit is worth the expense.
 
 ### Quiz 19
 
 > What is single loss expectancy? What is annualized loss expectancy?
 
-A single loss expectancy is the value associated with the most likely loss from an attack. It is a calculation based on the value of the asset and the expected percentage of loss that would occur from a single occurrence of a particular attack. 
+A single loss expectancy is the value associated with the most likely loss from an attack.
 
-Annual loss expectancy is the expected loss from exploitation of a vulnerability for a specific information asset over the course of a year. It is calculated by multiplying the single loss expectancy for a particular information asset by the annualized rate of occurrence.
+Annual loss expectancy is the expected loss from exploitation of a vulnerability for a specific information asset over the course of a year.
 
 
 ### Quiz 20
 
-> What is residual risk?
+> ***What is residual risk?***
 
-Even when vulnerabilities have been controlled as much as possible, there is often still some risk that has not been completely removed, shifted, or planned for. This remainder is called residual risk.
+Even when vulnerabilities have been controlled as much as possible, remainder that some risk that has not been completely removed, shifted, or planned for.
